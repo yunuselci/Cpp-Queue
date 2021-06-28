@@ -1,2 +1,2 @@
 # Cpp-Queue
-queue data structure using c++
+C++ Queue Data Structure Implementation
